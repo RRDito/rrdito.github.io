@@ -31,3 +31,10 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 
 
 # Data Science
+
+- ### Pro Dota 2 Matches Dota Fantasy Points Database
+
+[Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
+
+Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to insert the Liquipedia page of the tournament, scraps it for matches id and use the OpenDota API to get match statistics used for Fantasy Points calculation. Another simple interface allows to browse the Database and compare two player performances.  
+
