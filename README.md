@@ -15,7 +15,7 @@ Play at [Link to game in itch.io](https://rrdito.itch.io/whole-world-check)
 
 - ### Phase transitions in tumor growth. Cancer Glycolytic Oscillations.
 
-[Link to article] (https://www.sciencedirect.com/science/article/abs/pii/S0378437117306404)
+[Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0378437117306404) 
 
 Experimental evidence confirms the existence of glycolytic oscillations in cancer, which allows it to self-organize in time and space far from thermodynamic equilibrium, and provides it with high robustness, complexity and adaptability. A kinetic model is proposed for HeLa tumor cells grown in hypoxia conditions. It shows oscillations in a wide range of parameters. Two control parameters (glucose and inorganic phosphate concentration) were varied to explore the phase space, showing also the presence of limit cycles and bifurcations. The complexity of the system was evaluated by focusing on stationary state stability and Lempel–Ziv complexity. Moreover, the calculated entropy production rate was demonstrated behaving as a Lyapunov function.
 
