@@ -6,7 +6,7 @@ itchi.io profile:      https://rrdito.itch.io/
 
 Play at https://rrdito.itch.io/whole-world-check
 
-2D Strategy game made with Unity 2D. A Chesslike game that pits 2 armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
+2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
 
 
 # Complex Systems Simulation
