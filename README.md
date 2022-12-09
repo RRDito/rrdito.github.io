@@ -32,7 +32,7 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 
 
 
-## Data Science
+## Web Scraping
 
 - ### Pro Dota 2 Matches Dota Fantasy Points Database
 
