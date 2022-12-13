@@ -31,14 +31,14 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 ![image](https://user-images.githubusercontent.com/100057221/206404807-aeb1da87-9982-482d-87f5-0d385a78a3a8.png)
 
 ##### Other related publications
-[Cancer Glycolysis: Entropy Production and Sensitivity Analysis in Stationary State](http://adenocarcinoma.imedpub.com/cancer-glycolysis-i-entropy-production-and-sensitivity-analysis-in-stationary-state.php?aid=8968)
-[Phase transitions in tumor growth: relationship between metabolic rate and fractal dimension of human tumor cells](http://dx.doi.org/10.1016/j.physa.2016.12.089)
-[Phase transitions in tumor growth: Epithelial–Mesenchymal transition](https://doi.org/10.1016/j.physa.2018.01.040)
-[On the relationship between aging and cancer.](https://doi.org/10.15406/mojgg.2018.03.00103)
-[Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network](https://doi.org/0.1080/09291016.2018.1465697)
-[Chronotherapy of cancer: periodic perturbations in vascular growth and metastasis](https://doi.org/10.1080/09291016.2018.1465698)
-[Glucose starvation as cáncer treatment: Thermodinamic point of view](https://doi.org/10.15761/ICST.1000276)
-[Phase transitions in tumor growth: The effect of periodic glucose pulses and privations in a cancer model](https://doi.org/10.15761/ICST.1000301)
+- [Cancer Glycolysis: Entropy Production and Sensitivity Analysis in Stationary State](http://adenocarcinoma.imedpub.com/cancer-glycolysis-i-entropy-production-and-sensitivity-analysis-in-stationary-state.php?aid=8968)
+- [Phase transitions in tumor growth: relationship between metabolic rate and fractal dimension of human tumor cells](http://dx.doi.org/10.1016/j.physa.2016.12.089)
+- [Phase transitions in tumor growth: Epithelial–Mesenchymal transition](https://doi.org/10.1016/j.physa.2018.01.040)
+- [On the relationship between aging and cancer.](https://doi.org/10.15406/mojgg.2018.03.00103)
+- [Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network](https://doi.org/0.1080/09291016.2018.1465697)
+- [Chronotherapy of cancer: periodic perturbations in vascular growth and metastasis](https://doi.org/10.1080/09291016.2018.1465698)
+- [Glucose starvation as cáncer treatment: Thermodinamic point of view](https://doi.org/10.15761/ICST.1000276)
+- [Phase transitions in tumor growth: The effect of periodic glucose pulses and privations in a cancer model](https://doi.org/10.15761/ICST.1000301)
 
 
 
