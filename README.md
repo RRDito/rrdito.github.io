@@ -12,7 +12,7 @@ itchi.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
 
 Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 
-![](https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif | width=250)
+![](https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif)
 
 2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
 
@@ -55,10 +55,10 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to insert the Liquipedia page of the tournament, scraps it for matches id and use the OpenDota API to get match statistics used for Fantasy Points calculation. Another simple interface allows to browse the Database and compare two player performances.
 
 ###### Database Manager Interface
-![image](https://user-images.githubusercontent.com/100057221/206409045-4da43b27-e41f-4e4d-b7a9-32abddbd2c26.png | width=250)
+![image](https://user-images.githubusercontent.com/100057221/206409045-4da43b27-e41f-4e4d-b7a9-32abddbd2c26.png)
 
 ###### Fantasy Database Browser
-![image](https://user-images.githubusercontent.com/100057221/206409573-49a5e18a-2184-4f3e-bf82-b30eb27c736c.png|width=250)
+![image](https://user-images.githubusercontent.com/100057221/206409573-49a5e18a-2184-4f3e-bf82-b30eb27c736c.png)
 
 
 
