@@ -6,7 +6,7 @@
 
 ## Game Development <a name="game-dev"></a>
 
-itchi.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
+itch.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
 
 - ### The Whole World is in Check
 
