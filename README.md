@@ -13,6 +13,7 @@ itchi.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
 Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 
 ![](https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif)" width="200" height="400" />
 
 2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
 
