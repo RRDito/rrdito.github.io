@@ -1,6 +1,10 @@
 # R.R. "Dito" Martín Portfolio
 
-## Game Development
+1. [Game Development](#game-dev)
+2. [Complex Systems Simulation](#complex-systems)
+3. [Web Scraping](#web-scraping)
+
+## Game Development <a name="game-dev"></a>
 
 itchi.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
 
@@ -13,7 +17,7 @@ Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
 
 
-## Complex Systems Simulation
+## Complex Systems Simulation <a name="complex-systems"></a>
 
 - ### Phase transitions in tumor growth. Cancer Glycolytic Oscillations.
 
@@ -42,7 +46,7 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 
 
 
-## Web Scraping
+## Web Scraping <a name="web-scraping"></a>
 
 - ### Pro Dota 2 Matches Dota Fantasy Points Database
 
