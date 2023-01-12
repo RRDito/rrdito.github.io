@@ -61,8 +61,3 @@ Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches
 <img src="https://user-images.githubusercontent.com/100057221/212050387-71b9e603-6bce-4ce2-92a2-4d12bd8fb54a.png" width="600">
 
 
-
-
-
-
-
