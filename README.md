@@ -55,6 +55,6 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Allows to browse the Database and compare two player performances.
 
 ###### Comparison between two players (Fantasy Points vs Match Length)
-<img src="https://user-images.githubusercontent.com/100057221/212050387-71b9e603-6bce-4ce2-92a2-4d12bd8fb54a.png" width="600">
+<img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="600">
 
 
