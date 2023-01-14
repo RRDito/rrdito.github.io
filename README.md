@@ -51,8 +51,9 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 - ### Pro Dota 2 Matches Dota Fantasy Points Database
 
 [Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
+Fantasy Points are a measure of the performance of a Dota 2 player in a match. While is a consensus among the Dota 2 community that these points don't accurately reflect how well a player performed in such a complicated game, they have an alternative use during the Dota 2 Pro Circuit. In these tournaments the fans can obtain trading cards and form a Fantasy Roster and compete with others by accumulating fantasy points depending on the players performances.
 
-Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Allows to browse the Database and compare two player performances.
+This app written in Python uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Subsequently, allows to browse the Database and compare two player performances.
 
 ###### Comparison between two players (Fantasy Points vs Match Length)
 <img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="600">
