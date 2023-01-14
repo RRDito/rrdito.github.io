@@ -52,7 +52,7 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 
 [Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
 
-Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Another simple interface allows to browse the Database and compare two player performances.
+Uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Allows to browse the Database and compare two player performances.
 
 ###### Database Manager Interface
 <img src="https://user-images.githubusercontent.com/100057221/206409045-4da43b27-e41f-4e4d-b7a9-32abddbd2c26.png" width="400">
