@@ -43,7 +43,7 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 - [On the relationship between aging and cancer.](https://doi.org/10.15406/mojgg.2018.03.00103)
 - [Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network](https://doi.org/10.1080/09291016.2018.1465697)
 - [Chronotherapy of cancer: periodic perturbations in vascular growth and metastasis](https://doi.org/10.1080/09291016.2018.1465698)
-- [Glucose starvation as cáncer treatment: Thermodinamic point of view](https://doi.org/10.15761/ICST.1000276)
+- [Glucose starvation as cancer treatment: Thermodinamic point of view](https://doi.org/10.15761/ICST.1000276)
 - [Phase transitions in tumor growth: The effect of periodic glucose pulses and privations in a cancer model](https://doi.org/10.15761/ICST.1000301)
 
 
