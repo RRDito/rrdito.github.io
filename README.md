@@ -36,7 +36,7 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 <img src="https://user-images.githubusercontent.com/100057221/206404807-aeb1da87-9982-482d-87f5-0d385a78a3a8.png" width="600">
 
 
-##### Other related publications
+##### Related publications co-authored
 - [Cancer Glycolysis: Entropy Production and Sensitivity Analysis in Stationary State](http://adenocarcinoma.imedpub.com/cancer-glycolysis-i-entropy-production-and-sensitivity-analysis-in-stationary-state.php?aid=8968)
 - [Phase transitions in tumor growth: relationship between metabolic rate and fractal dimension of human tumor cells](http://dx.doi.org/10.1016/j.physa.2016.12.089)
 - [Phase transitions in tumor growth: Epithelial–Mesenchymal transition](https://doi.org/10.1016/j.physa.2018.01.040)
