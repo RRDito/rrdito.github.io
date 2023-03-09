@@ -59,6 +59,6 @@ Fantasy Points are a measure of the performance of a Dota 2 player in a match. W
 This app written in Python uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Subsequently, allows to browse the Database and compare two player performances.
 
 ###### Comparison between two players (Fantasy Points vs Match Length)
-<img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="300">
+<img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="400">
 
 
