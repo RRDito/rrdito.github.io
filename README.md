@@ -27,13 +27,14 @@ Wrote devlogs discussing the changes that were implemented in succesive patches:
 Experimental evidence confirms the existence of glycolytic oscillations in cancer, which allows it to self-organize in time and space far from thermodynamic equilibrium, and provides it with high robustness, complexity and adaptability. A kinetic model is proposed for HeLa tumor cells grown in hypoxia conditions. It shows oscillations in a wide range of parameters. Two control parameters (glucose and inorganic phosphate concentration) were varied to explore the phase space, showing also the presence of limit cycles and bifurcations. The complexity of the system was evaluated by focusing on stationary state stability and Lempel–Ziv complexity. Moreover, the calculated entropy production rate was demonstrated behaving as a Lyapunov function.
 
 ###### Biochemical Model
-![image](https://user-images.githubusercontent.com/100057221/206404148-3eaaab3f-6f0e-4db7-add7-97e0a3f304b0.png)
+<img src="https://user-images.githubusercontent.com/100057221/206404148-3eaaab3f-6f0e-4db7-add7-97e0a3f304b0.png" width="200">
 
 ###### Time Series
-![image](https://user-images.githubusercontent.com/100057221/206404511-33bea0d7-bcf4-4127-931c-473120193ca2.png)
+<img src="https://user-images.githubusercontent.com/100057221/206404511-33bea0d7-bcf4-4127-931c-473120193ca2.png" width="200">
 
 ###### Phase Diagrams
-![image](https://user-images.githubusercontent.com/100057221/206404807-aeb1da87-9982-482d-87f5-0d385a78a3a8.png)
+<img src="https://user-images.githubusercontent.com/100057221/206404807-aeb1da87-9982-482d-87f5-0d385a78a3a8.png" width="200">
+
 
 ##### Other related publications
 - [Cancer Glycolysis: Entropy Production and Sensitivity Analysis in Stationary State](http://adenocarcinoma.imedpub.com/cancer-glycolysis-i-entropy-production-and-sensitivity-analysis-in-stationary-state.php?aid=8968)
