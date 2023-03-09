@@ -6,15 +6,16 @@
 
 ## Game Development <a name="game-dev"></a>
 
-itch.io profile:    [rrdito.itch.io](https://rrdito.itch.io)
+Projects released and prototypes of futures projects can be found in itch.io:    [rrdito.itch.io](https://rrdito.itch.io)
 
 - ### The Whole World is in Check
 
 Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 
-<img src="https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif" width="400">
+<img src="https://user-images.githubusercontent.com/100057221/206401412-e6169b54-3742-448f-93d6-7525a8019a26.gif" width="200">
 
-2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules.
+2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules. Involved in complete development cycle. Created shaders, animation, sprites, music and sound assets. Performed quality of life improvements based on feedback after publication. Built for Android, WebGL and PC.
+Wrote devlogs discussing the changes that were implemented in succesive patches: [Devlogs](https://rrdito.itch.io/whole-world-check/devlog)
 
 
 ## Complex Systems Simulation <a name="complex-systems"></a>
