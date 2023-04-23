@@ -1,8 +1,9 @@
 # R.R. "Dito" Martín Portfolio
 
 1. [Game Development](#game-dev)
-2. [Complex Systems Simulation](#complex-systems)
-3. [Web Scraping](#web-scraping)
+2. [Web Scraping](#web-scraping)
+3. [Complex Systems Simulation](#complex-systems)
+
 
 ## Game Development <a name="game-dev"></a>
 
@@ -16,6 +17,20 @@ Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 
 2D Strategy game made with Unity 2D. A Chesslike game that pits two armies against each other, with pieces based on regular chess pieces but with different movements and unique rules. Involved in complete development cycle. Created shaders, animation, sprites, music and sound assets. Performed quality of life improvements based on feedback after publication. Built for Android, WebGL and PC.
 Wrote devlogs discussing the changes that were implemented in succesive patches: [Devlogs](https://rrdito.itch.io/whole-world-check/devlog)
+
+
+## Web Scraping <a name="web-scraping"></a>
+
+- ### Pro Dota 2 Matches Dota Fantasy Points Database
+
+[Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
+
+Fantasy Points are a measure of the performance of a Dota 2 player in a match. While is a consensus among the Dota 2 community that these points don't accurately reflect how well a player performed in such a complicated game, they have an alternative use during the Dota 2 Pro Circuit. In these tournaments the fans can obtain trading cards and form a Fantasy Roster and compete with others by accumulating fantasy points depending on the players performances.
+
+This app written in Python uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Subsequently, allows to browse the Database and compare two player performances.
+
+###### Comparison between two players (Fantasy Points vs Match Length)
+<img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="400">
 
 
 ## Complex Systems Simulation <a name="complex-systems"></a>
@@ -48,17 +63,6 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 
 
 
-## Web Scraping <a name="web-scraping"></a>
 
-- ### Pro Dota 2 Matches Dota Fantasy Points Database
-
-[Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
-
-Fantasy Points are a measure of the performance of a Dota 2 player in a match. While is a consensus among the Dota 2 community that these points don't accurately reflect how well a player performed in such a complicated game, they have an alternative use during the Dota 2 Pro Circuit. In these tournaments the fans can obtain trading cards and form a Fantasy Roster and compete with others by accumulating fantasy points depending on the players performances.
-
-This app written in Python uses web scraping to extract the Fantasy Points statistics of Dota 2 pro matches. Has a simple interface to gather the data from webpages most commonly used by the community. Subsequently, allows to browse the Database and compare two player performances.
-
-###### Comparison between two players (Fantasy Points vs Match Length)
-<img src="https://user-images.githubusercontent.com/100057221/212465994-123ab32d-da9f-4bf8-aa92-71f3cd0377e6.png" width="400">
 
 
