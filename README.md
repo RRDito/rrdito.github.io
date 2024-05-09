@@ -1,3 +1,5 @@
+<p align="center">
+  
 # R.R. "Dito" Martín Portfolio
 
 1. [Game Development](#game-dev)
