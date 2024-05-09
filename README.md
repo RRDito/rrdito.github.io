@@ -1,19 +1,16 @@
-<div align="center">
-  
 # R.R. "Dito" Martín Portfolio
-</div>
+
 
 1. [Game Development](#game-dev)
 2. [Web Scraping](#web-scraping)
 3. [Complex Systems Simulation](#complex-systems)
 
-<div align="center">
   
 ## Game Development <a name="game-dev"></a>
 
 Projects released and prototypes of futures projects can be found in itch.io:    [rrdito.itch.io](https://rrdito.itch.io)
 
- ### The Whole World is in Check
+- ### The Whole World is in Check
 
 Play at [the Whole World is in Check](https://rrdito.itch.io/whole-world-check)
 
@@ -25,7 +22,7 @@ Wrote devlogs discussing the changes that were implemented in succesive patches:
 
 ## Web Scraping <a name="web-scraping"></a>
 
- ### Pro Dota 2 Matches Dota Fantasy Points Database
+- ### Pro Dota 2 Matches Dota Fantasy Points Database
 
 [Project in Github](https://github.com/RRDito/Dota-Fantasy-Database)
 
@@ -39,7 +36,7 @@ This app written in Python uses web scraping to extract the Fantasy Points stati
 
 ## Complex Systems Simulation <a name="complex-systems"></a>
 
- ### Phase transitions in tumor growth. Cancer Glycolytic Oscillations.
+- ### Phase transitions in tumor growth. Cancer Glycolytic Oscillations.
 
 [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0378437117306404) 
 
@@ -66,7 +63,6 @@ Experimental evidence confirms the existence of glycolytic oscillations in cance
 - [Phase transitions in tumor growth: The effect of periodic glucose pulses and privations in a cancer model](https://doi.org/10.15761/ICST.1000301)
 
 
-</div>
 
 
 
